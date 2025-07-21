@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Kantarell",
-    "image": "https://webbkurs.ei.hv.se/~mimo0024/svampisUpdate/kantarell.jpg",
+    "image": "https://minnamobiny.github.io/svampisUpdate/kantarell.jpg",
     "description": "Kantarellen är en av de mest populära och eftertraktade svamparna i svenska skogar. Den kännetecknas av sin gula, trumpetformade hatt och sin milda, fruktiga smak. Den växer oftast i bland- och barrskogar, och är mycket uppskattad i matlagning, både i såser, soppor och som smaksättare i rätter.",
     "type": "edible",
     "toxic": false
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "name": "Karljohan",
-    "image": "https://webbkurs.ei.hv.se/~mimo0024/svampisUpdate/karlJohan.jpg",
+    "image": "https://minnamobiny.github.io/svampisUpdate/karlJohan.jpg",
     "description": "Karljohan är en delikat och mycket uppskattad svamp som ofta förekommer i löv- och barrskogar. Den har en kraftig, köttig konsistens och en mild smak som gör den perfekt i grytor, såser och soppor. Den är lätt att känna igen på sin stora, bruna hatt och tjocka stilk.",
     "type": "edible",
     "toxic": false
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "name": "Röd Flugsvamp",
-    "image": "https://webbkurs.ei.hv.se/~mimo0024/svampisUpdate/flugsvamp.jpg",
+    "image": "https://minnamobiny.github.io/svampisUpdate/flugsvamp.jpg",
     "description": "Röd flugsvamp är en mycket giftig svamp som är lätt att känna igen på sin klarröda hatt med vita prickar. Den växer oftast i barrskogar och är känd för att vara farlig att konsumera, då den kan orsaka allvarliga förgiftningar. Trots sin giftighet är den en ikonisk svamp i svensk natur och skogstradition.",
     "type": "toxic",
     "toxic": true
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "name": "Toppmurkla",
-    "image": "https://webbkurs.ei.hv.se/~mimo0024/svampisUpdate/toppmurkla.jpg",
+    "image": "https://minnamobiny.github.io/svampisUpdate/toppmurkla.jpg",
     "description": "Toppmurklan är en mycket uppskattad matsvamp som liknar en 'kotte' med sin konstiga, krusiga form och bruna färg. Den förekommer ofta i skogsområden med lövträd och är känd för sin goda smak och textur när den tillagas. Den är ätlig men måste tillagas ordentligt för att vara säker att äta.",
     "type": "edible",
     "toxic": false
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "name": "Vit flugsvamp",
-    "image": "https://webbkurs.ei.hv.se/~mimo0024/svampisUpdate/vitflugsvamp.jpg",
+    "image": "https://minnamobiny.github.io/svampisUpdate/vitflugsvamp.jpg",
     "description": "Vit flugsvamp är en annan mycket giftig svamp som ser liknande ut som den röda flugsvampen, men med en vit hatt. Den är extremt farlig att konsumera och kan orsaka allvarliga skador på levern och andra inre organ. Även små mängder av denna svamp kan vara dödliga, så det är viktigt att undvika att plocka och konsumera den.",
     "type": "toxic",
     "toxic": true
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "name": "Champinjon",
-    "image": "https://webbkurs.ei.hv.se/~mimo0024/svampisUpdate/champinjon.jpg",
+    "image": "https://minnamobiny.github.io/svampisUpdate/champinjon.jpg",
     "description": "Champinjonen är en av de mest välkända och använda svamparna i matlagning världen över. Den har en mild och något nötig smak och passar utmärkt i soppor, såser, grytor och sallader. Det är en allsidig svamp som finns både i naturen och odlas kommersiellt. Den plockas ofta i unga stadier, när hattarna fortfarande är stängda.",
     "type": "edible",
     "toxic": false
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "name": "Panterflugsvamp",
-    "image": "https://webbkurs.ei.hv.se/~mimo0024/svampisUpdate/panterflugsvamp.jpg",
+    "image": "https://minnamobiny.github.io/svampisUpdate/panterflugsvamp.jpg",
     "description": "Panterflugsvampen är en mycket giftig svamp som är lätt att känna igen på sin gråbruna hatt med vita prickar. Den är farlig att konsumera och kan orsaka svåra förgiftningar, inklusive hallucinationer, magsmärtor och andra allvarliga symptom. Den växer oftast i barrskogar och bör absolut undvikas.",
     "type": "toxic",
     "toxic": true
